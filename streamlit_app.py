@@ -1,4 +1,6 @@
 import streamlit
+import streamlit.connector
+
 
 streamlit.title('My parents new healthy diner!')
 
